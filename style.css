@@ -27,7 +27,8 @@ body{
     display: flex;
     margin: auto;
     background-color: white;
-    margin: 0 300px ;
+    margin: 0 300px 50px 300px ;
+    
 }
 .section2 div{
     width: 50%;
@@ -56,4 +57,19 @@ body{
     color: slategray;
     padding-right: 30px;
     text-align: justify;
+}
+
+.section3{
+    margin: 0 300px;
+    background-color: white;
+    display: flex;
+    padding: 30px 30px;
+}
+
+.section3{
+    text-align: center;
+}
+
+.section3 div{
+    width: 32%;
 }
